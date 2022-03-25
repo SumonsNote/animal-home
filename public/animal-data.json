@@ -1,0 +1,75 @@
+[
+    {
+        "id": "0101",
+        "name": "my-goat",
+        "price": 20000,
+        "img": "./animal-images/animal-0101-01.jpg"
+    },
+    {
+        "id": "0102",
+        "name": "the-wild-Eagle",
+        "price": 40000,
+        "img": "./animal-images/animal-0101-02.jpg"
+    },
+    {
+        "id": "0103",
+        "name": "the-wild-Chimpanzee",
+        "price": 40000,
+        "img": "./animal-images/animal-0101-03.jpg"
+    },
+    {
+        "id": "0104",
+        "name": "the-long-leg-birds",
+        "price": 30000,
+        "img": "./animal-images/animal-0101-04.jpg"
+    },
+    {
+        "id": "0105",
+        "name": "the-wild-Bees",
+        "price": 4000,
+        "img": "./animal-images/animal-0101-05.jpg"
+    },
+    {
+        "id": "0106",
+        "name": "the-smooth-beautiful-bird",
+        "price": 400000,
+        "img": "./animal-images/animal-0101-06.jpg"
+    },
+    {
+        "id": "0107",
+        "name": "the-wild-dangerous-deer",
+        "price": 45000,
+        "img": "./animal-images/animal-0101-07.jpg"
+    },
+    {
+        "id": "0108",
+        "name": "the-wild-goat-funny",
+        "price": 20000,
+        "img": "./animal-images/animal-0101-08.jpg"
+    },
+    {
+        "id": "0109",
+        "name": "the-wild-long-leg-sea-bird",
+        "price": 50000,
+        "img": "./animal-images/animal-0101-09.jpg"
+    },
+    {
+        "id": "01010",
+        "name": "the-wild-Giraffe",
+        "price": 400000,
+        "img": "./animal-images/animal-0101-10.jpg"
+    },
+    {
+        "id": "01011",
+        "name": "the-wild-sunlight-deer",
+        "price": 40000,
+        "img": "./animal-images/animal-0101-11.jpg"
+    },
+    {
+        "id": "01012",
+        "name": "the-wild-flying-bird",
+        "price": 30000,
+        "img": "./animal-images/animal-0101-12.jpg"
+    }
+
+]
