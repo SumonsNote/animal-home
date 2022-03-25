@@ -1,0 +1,25 @@
+.product {
+    width: 300px;
+    height: 550px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btn-cart {
+    padding: 5px 20px ;
+    /* position: absolute; */
+    bottom: 0;
+    background-color: green;
+    border: 0;
+    outline: 0;
+    color: white;
+    border-radius: 5px;
+
+}
