@@ -1,11 +1,11 @@
 import React from 'react';
 import './AnimalCart.css'
 
-const AnimalCart = (props) => {
+const AnimalCart = ({cart}) => {
     return (
         <div className='cart-container'>
             <h2>Animal Cart</h2>
-            <p>{props.cart}</p>
+            <p>Item: {cart}</p>
         </div>
     );
 };
