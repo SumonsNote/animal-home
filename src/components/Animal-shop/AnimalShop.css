@@ -6,5 +6,17 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
-    margin: 100px 50px;
+    margin: 10px;
 }
+
+.cart-container {
+    background-color: #108310;
+    color: #fff;
+    position: sticky;
+    top: 0;
+}
+/* @media screen and (max-width:1100px) {
+    .product-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+} */
