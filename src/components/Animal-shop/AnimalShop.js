@@ -14,6 +14,9 @@ const AnimalShop = () => {
     setCart(newCart);
   };
 
+  const removeItem = () => {
+    setCart([])
+  }
   useEffect(() => {
     fetch("animal-data.json")
       .then((res) => res.json())
@@ -39,7 +42,7 @@ const AnimalShop = () => {
             </h5>
           ))}
           <button className="bg-warning p-2 border-0 m-2 fw-bold rounded">Choose One</button>
-          <button className="bg-warning p-2 border-0 m-2 fw-bold rounded">Clear</button>
+          <button onClick={() => removeItem()} className="bg-warning p-2 border-0 m-2 fw-bold rounded">Clear</button>
         </div>
       </div>
     </div>

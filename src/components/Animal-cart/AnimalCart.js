@@ -3,7 +3,7 @@ import './AnimalCart.css'
 
 const AnimalCart = ({cart}) => {
     return (
-        <div className='cart-container'>
+        <div className='cart-container container-fluid'>
             <h2>Animal Cart</h2>
             <p>Item: {cart}</p>
         </div>
